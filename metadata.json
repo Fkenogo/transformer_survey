@@ -1,0 +1,5 @@
+{
+  "name": "PowerGrid Insights: Transformer Market Dashboard",
+  "description": "A comprehensive analytics dashboard for visualizing survey data across the transformer supply chain, including utilities, C&I, suppliers, EPCs, and regulators.",
+  "requestFramePermissions": []
+}
